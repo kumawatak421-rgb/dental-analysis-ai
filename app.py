@@ -1,7 +1,7 @@
 import gdown
 import os
 
-url = 'https://drive.google.com/uc?export=download&id=1hoEnYVCSIRnktmBfnYYUBa1p_5e9x7VO'
+url = 'https://drive.google.com/file/d/1WF9iDdhw_J0O1A1gXgxrfsWtHhTVjD0x/view?usp=sharing'
 output = 'dental_disease_model.h5'
 
 if not os.path.exists(output):
