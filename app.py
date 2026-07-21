@@ -1,3 +1,11 @@
+import gdown
+import os
+
+url = 'https://drive.google.com/uc?export=download&id=1hoEnYVCSIRnktmBfnYYUBa1p_5e9x7VO'
+output = 'dental_disease_model.h5'
+
+if not os.path.exists(output):
+    gdown.download(url, output, quiet=False)
 import streamlit as st
 import tensorflow as tf
 from tensorflow.keras.models import load_model
