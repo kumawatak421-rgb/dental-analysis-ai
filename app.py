@@ -8,7 +8,6 @@ if not os.path.exists(output):
     gdown.download(url, output, quiet=False)
 import streamlit as st
 import tflite_runtime.interpreter as tflite
-from tensorflow.keras.models import load_model
 import cv2
 import numpy as np
 import os
