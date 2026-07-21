@@ -2,4 +2,3 @@ gdown
 streamlit
 opencv-python
 numpy
-tensorflow-cpu==2.15.0
