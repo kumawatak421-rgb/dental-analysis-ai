@@ -7,7 +7,7 @@ output = 'dental_disease_model.h5'
 if not os.path.exists(output):
     gdown.download(url, output, quiet=False)
 import streamlit as st
-import tensorflow as tf
+import tflite_runtime.interpreter as tflite
 from tensorflow.keras.models import load_model
 import cv2
 import numpy as np
