@@ -2,5 +2,4 @@ gdown
 streamlit
 opencv-python-headless
 numpy
-h5py
 tensorflow

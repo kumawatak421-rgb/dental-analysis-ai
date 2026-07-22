@@ -10,7 +10,6 @@ import streamlit as st
 import cv2
 import numpy as np
 import os
-import h5py
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 # Page Configuration
