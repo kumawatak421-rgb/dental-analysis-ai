@@ -3,5 +3,5 @@ streamlit
 opencv-python-headless
 numpy
 keras
-tensorfloe-cpu
+tensorflow-cpu
 
