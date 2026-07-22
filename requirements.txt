@@ -2,5 +2,6 @@ gdown
 streamlit
 opencv-python-headless
 numpy
-keras
+tf-keras
+tensorflow
 
