@@ -3,4 +3,4 @@ streamlit
 opencv-python-headless
 numpy
 keras
-tensorflow
+
