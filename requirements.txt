@@ -3,3 +3,5 @@ streamlit
 opencv-python-headless
 numpy
 h5py
+keras
+keras-nightly
