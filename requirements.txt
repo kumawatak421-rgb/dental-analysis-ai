@@ -3,4 +3,5 @@ streamlit
 opencv-python-headless
 numpy
 h5py
-tf_keras
+tensorflow-cp
+keras
