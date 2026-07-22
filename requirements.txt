@@ -2,6 +2,4 @@ gdown
 streamlit
 opencv-python-headless
 numpy
-tensorflow-cpu==2.15.0
 h5py
-keras==2.15.0

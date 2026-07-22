@@ -10,8 +10,7 @@ import streamlit as st
 import cv2
 import numpy as np
 import os
-import tensorflow as tf
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 # Page Configuration
 st.set_page_config(page_title="DENTAL ANALYSIS AI", page_icon="🦷", layout="centered")
 
